@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Lauda_Loveless",
     "password": "",
     "type": "offline"
   },
@@ -31,14 +31,14 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "creeper ki maki chomot",
+        "yemate cudasai",
+        "CALL DADY"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
       "enabled": false,
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/XxZNvExS5T",
     "events": {
       "connect": true,
       "disconnect": true,
